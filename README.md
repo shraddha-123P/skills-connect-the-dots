@@ -9,7 +9,7 @@
 
 # Connect the dots in a GitHub repository
 
-_Useful tips when navigating through your repository._
+_Useful tips when navigating through your repository  ._
 
 </header>
 
